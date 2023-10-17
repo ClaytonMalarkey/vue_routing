@@ -1,6 +1,7 @@
 <template>
     <div>
         <!-- Your HTML content for the MenuPage -->
+        <h1>This is hte manu></h1>
     </div>
 </template>
   
